@@ -16,20 +16,7 @@ Este repositório tem como objetivo praticar a conversão de estilos CSS para LE
 - `main`: Contém os arquivos originais (CSS).
 - `exercicio_less`: Contém os arquivos convertidos para LESS.
 
-## Como Clonar e Trabalhar na Branch
-```bash
-# Clonar o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
 
-# Criar e mudar para a branch de estudo
-git checkout -b exercicio_less
-
-# Após fazer as alterações, adicionar e commitar
-git add .
-git commit -m "Convertendo estilos para LESS"
-
-git push origin exercicio_less
 ```
 
 ## Observação
